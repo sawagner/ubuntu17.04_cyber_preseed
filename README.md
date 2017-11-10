@@ -1,5 +1,7 @@
 # Using LBM-INJECT for preseed injection
 
-Use existing docs in repo.
+Original scripts&such from LCSEE Systems.
 
-Intend to use on Ubuntu 17.04 network desktop installer
+Use existing docs in repo for usage.
+
+Intend to modify for use on Ubuntu 17.04 network desktop installer.
